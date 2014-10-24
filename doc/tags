@@ -1,0 +1,16 @@
+:RangeMacro	RangeMacro.txt	/*:RangeMacro*
+<Leader>@	RangeMacro.txt	/*<Leader>@*
+RangeMacro-configuration	RangeMacro.txt	/*RangeMacro-configuration*
+RangeMacro-dependencies	RangeMacro.txt	/*RangeMacro-dependencies*
+RangeMacro-description	RangeMacro.txt	/*RangeMacro-description*
+RangeMacro-history	RangeMacro.txt	/*RangeMacro-history*
+RangeMacro-ideas	RangeMacro.txt	/*RangeMacro-ideas*
+RangeMacro-installation	RangeMacro.txt	/*RangeMacro-installation*
+RangeMacro-integration	RangeMacro.txt	/*RangeMacro-integration*
+RangeMacro-known-problems	RangeMacro.txt	/*RangeMacro-known-problems*
+RangeMacro-limitations	RangeMacro.txt	/*RangeMacro-limitations*
+RangeMacro-todo	RangeMacro.txt	/*RangeMacro-todo*
+RangeMacro-usage	RangeMacro.txt	/*RangeMacro-usage*
+RangeMacro.txt	RangeMacro.txt	/*RangeMacro.txt*
+RangeMacro.vim	RangeMacro.txt	/*RangeMacro.vim*
+g:RangeMacro_MyOption	RangeMacro.txt	/*g:RangeMacro_MyOption*

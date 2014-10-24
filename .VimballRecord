@@ -1,0 +1,1 @@
+RangeMacro.vba.gz: call delete('/home/jekeller/.vim/bundle/vim-rangemacro//autoload/ingomarks.vim')|call delete('/home/jekeller/.vim/bundle/vim-rangemacro//autoload/RangeMacro.vim')|call delete('/home/jekeller/.vim/bundle/vim-rangemacro//plugin/RangeMacro.vim')|call delete('/home/jekeller/.vim/bundle/vim-rangemacro//doc/RangeMacro.txt')
